@@ -1,0 +1,30 @@
+.play {
+  background-image: url(https://assets.entrepreneur.com/content/3x2/2000/1672971505-shutterstock-1920422225-spotify.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.container {
+  background-color: black;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: burlywood;
+  width: 400px;
+  margin: 50px auto;
+  border: 1px solid #ccc;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  margin-bottom: 15px;
+}
