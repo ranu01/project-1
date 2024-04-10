@@ -4,17 +4,19 @@
   background-size: cover;
 }
 .container {
-  background-color: black;
+  text-align: center;
+  background-color: rgb(54, 53, 54);
   font-family: Georgia, "Times New Roman", Times, serif;
-  color: burlywood;
+  color: rgb(207, 203, 189);
   width: 400px;
-  margin: 50px auto;
-  border: 1px solid #ccc;
-  padding: 20px;
-  border-radius: 5px;
+  margin: 200px auto;
+  border: 1px solid #140202;
+  padding: 50px;
+  border-radius: 80px;
 }
 
 label {
+  align-items: center;
   display: block;
   margin-bottom: 5px;
 }
@@ -27,4 +29,9 @@ input[type="password"] {
   box-sizing: border-box;
   border: 1px solid #ccc;
   margin-bottom: 15px;
+}
+.exit {
+  background-image: url(https://png.pngtree.com/background/20230528/original/pngtree-colorful-hair-and-music-headphone-abstract-free-wallpapers-picture-image_2774495.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
