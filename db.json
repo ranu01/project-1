@@ -1,0 +1,159 @@
+{
+    "tracks": [
+      {
+        "id": "1",
+        "songName": "Angela",
+        "artist": "Boutross, Juicee Mann",
+        "poster": "img/1.png",
+        "mp3":"audio/1.mp3"
+      },
+      {
+        "id": "2",
+        "songName": "KANA",
+        "artist": "OLamide, Wizkid",
+        "poster": "img/2.png",
+        "mp3":"audio/2.mp3"
+      },
+      {
+        "id": "3",
+        "songName": "POPSTAR",
+        "artist": "DJ Khaled, Drake",
+        "poster": "img/3.png",
+        "mp3":"audio/3.mp3"
+      },
+      {
+        "id": "4",
+        "songName": "Nonstop",
+        "artist": "Drake",
+        "poster": "img/4.png",
+        "mp3":"audio/4.mp3"
+      },
+      {
+        "id": "5",
+        "songName": "Sability",
+        "artist": "Arya Starr",
+        "poster": "img/5.png",
+        "mp3":"audio/5.mp3"
+      },
+      {
+        "id": "6",
+        "songName": "Terminator",
+        "artist": "Asake",
+        "poster": "img/6.png",
+        "mp3":"audio/6.mp3"
+      }
+    ],
+      "pop-tracks":[ 
+      {
+        "id": "1",
+        "songName": "Low Down",
+        "artist": "Lil Baby",
+        "poster": "img/7.png"
+      },
+      {
+        "id": "2",
+        "songName": "Toast",
+        "artist": "Koffee",
+        "poster": "img/8.png"
+      },
+      {
+        "id": "3",
+        "songName": "Drogba (Joanna)",
+        "artist": "Afro B, Wizkid",
+        "poster": "img/9.png"
+      },
+      {
+        "id": "4",
+        "songName": "Dimension",
+        "artist": "JAE5, Skepta, Rema",
+        "poster": "img/10.png"
+      },
+      {
+        "id": "5",
+        "songName": "Ye",
+        "artist": "Burna Boy",
+        "poster": "img/11.png"
+      },
+      {
+        "id": "6",
+        "songName": "Asiwaju",
+        "artist": "Ruger",
+        "poster": "img/12.png"
+      },
+      {
+        "id": "7",
+        "songName": "In Da Club",
+        "artist": "50 Cent",
+        "poster": "img/13.png"
+      },
+      {
+        "id": "8",
+        "songName": "soso",
+        "artist": "Omah Lay",
+        "poster": "img/14.png"
+      },
+      {
+        "id": "9",
+        "songName": "Feed The Fire",
+        "artist": "SG Lewis, Lucky Daye",
+        "poster": "img/15.png"
+      }
+    ],
+    "artists": [
+        {
+            "id": "1",
+            "image": "img/wizkid.png",
+            "title": "Wizkid"
+        },
+        {
+            "id": "2",
+            "image": "img/adele.png",
+            "title": "Adele"
+        },
+        {
+            "id": "3",
+            "image": "img/eminem.png",
+            "title": "Eminem"
+        },
+        {
+            "id": "4",
+            "image": "img/beyonce.png",
+            "title": "Beyonce"
+        },
+        {
+            "id": "5",
+            "image": "img/drake.png",
+            "title": "Drake"
+        },
+        {
+            "id": "6",
+            "image": "img/rihanna.png",
+            "title": "Rihanna"
+        },
+        {
+            "id": "7",
+            "image": "img/theweeknd.png",
+            "title": "The Weeknd"
+        },
+        {
+            "id": "8",
+            "image": "img/usher.png",
+            "title": "Usher"
+        },
+        {
+            "id": "9",
+            "image": "img/shakira.png",
+            "title": "Shakira"
+        },
+        {
+            "id": "10",
+            "image": "img/mj.png",
+            "title": "Michael Jackson"
+        },
+        {
+            "id": "11",
+            "image": "img/celine.png",
+            "title": "Céline Dion"
+        }
+    ]
+}
