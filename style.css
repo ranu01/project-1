@@ -4,19 +4,19 @@
   background-size: cover;
 }
 .container {
-  text-align: center;
-  background-color: rgb(54, 53, 54);
+  text-align: right;
+  background-color: rgb(45, 49, 45);
   font-family: Georgia, "Times New Roman", Times, serif;
   color: rgb(207, 203, 189);
   width: 400px;
   margin: 200px auto;
   border: 1px solid #140202;
   padding: 50px;
-  border-radius: 80px;
+  border-radius: 1 00px;
 }
 
 label {
-  align-items: center;
+  align-items: c;
   display: block;
   margin-bottom: 5px;
 }
@@ -34,4 +34,47 @@ input[type="password"] {
   background-image: url(https://png.pngtree.com/background/20230528/original/pngtree-colorful-hair-and-music-headphone-abstract-free-wallpapers-picture-image_2774495.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+}
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.btn.dropdown-toggle {
+  width: 150px;
+  text-align: center;
+}
+
+span.caret {
+  position: absolute;
+  left: 90%;
+  top: 45%;
+}
+
+label {
+  padding-top: 5px;
+}
+
+.form-label {
+  padding-left: 0px !important;
+}
+
+.form-control {
+  border-radius: 100px;
+}
+
+.btn-success {
+  background-color: #3b7d4a im !important;
+  border-radius: 100px;
+  border: none;
+  cursor: pointer;
+}
+
+.btn-success:hover {
+  background-color: #4daf64;
+}
+
+img.track {
+  border: 3px solid #8a8a8a;
 }
