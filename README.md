@@ -16,7 +16,7 @@ Spofyis a music web application that allows users to discover new music, and lis
 Tunez is built using the following technologies:
 
 HTML5 AND CSS
-Node.js - A JavaScript runtime built on Chrome's V8 JavaScript engine.
+js
 A db.json file
 
 ## Support and contact details
