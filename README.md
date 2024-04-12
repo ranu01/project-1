@@ -4,6 +4,15 @@ This website allows users to explore and listen to music. (Feel free to add more
 
 ## Getting Started:
 
+Contributions to Spofy are welcome! To contribute, follow these steps:
+
+Fork the repository.
+Create a new branch for your feature: git checkout -b my-new-feature.
+Make changes and commit them: git commit -am 'Add new feature'.
+Push to the branch: git push origin my-new-feature.
+Submit a pull request.
+Explore the website's features through the user interface. (Provide a brief overview of the main functionalities here, like searching for music, playing songs, creating playlists, etc.)
+
 Open a terminal in the project directory.
 Run a development server using a tool like npm start or a similar command depending on your setup. This will typically launch the website in your default browser at a specified port.
 
@@ -19,7 +28,7 @@ HTML5 AND CSS
 js
 A db.json file
 
-## Support and contact details
+##
 
 Contributions to Spofy are welcome! To contribute, follow these steps:
 
