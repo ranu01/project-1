@@ -11,11 +11,6 @@ Run a development server using a tool like npm start or a similar command depend
 
 Spofyis a music web application that allows users to discover new music, and listen to their favorite songs. The app has a sleek and intuitive interface that makes it easy for users to navigate and enjoy their music.
 
-## Setup/Installation Requirements
-
-- For a live demo, visit: https://642f22f2af5d7f005f1a8da8--candid-froyo-9a23bc.netlify.app/
-- Please be patient, the songs might take a few seconds to play.
-
 ## Technologies Used
 
 Tunez is built using the following technologies:
