@@ -1,3 +1,9 @@
+## Spofy
+
+#### Spofy is a music web application that allows users to listen to music
+
+#### By **Ranu**
+
 ## Project Description
 
 This website allows users to explore and listen to music. (Feel free to add more details about your website's functionalities here, such as playlists, artist/genre browsing, music player features, etc.)
