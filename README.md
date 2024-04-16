@@ -6,7 +6,7 @@
 
 ## Project Description
 
-This website allows users to explore and listen to music. (Feel free to add more details about your website's functionalities here, such as playlists, artist/genre browsing, music player features, etc.)
+This website allows users to explore and listen to music. Feel free to add more details about your website's functionalities here, such as playlists, artist/genre browsing, music player features, etc.
 
 ## Getting Started:
 
@@ -28,7 +28,7 @@ Spofyis a music web application that allows users to discover new music, and lis
 
 ## Setup/Installation Requirements
 
-- For a live demo, visit: https://642f22f2af5d7f005f1a8da8--candid-froyo-9a23bc.netlify.app/
+- For a live demo, visit: https://my-json-server.typicode.com/ranu01/project-1/db
 - Please be patient, the songs might take a few seconds to play.
 
 ## Technologies Used
@@ -38,3 +38,5 @@ Tunez is built using the following technologies:
 HTML5 AND CSS
 js
 A db.json file
+
+## Enjoy music

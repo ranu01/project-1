@@ -1,3 +1,4 @@
+const url="https://my-json-server.typicode.com/ranu01/project-1/db"
 //1. To display the artists in the Popular Artists div
   // Get the HTML element where we want to append the images and titles to the popular artists div
   const artistList = document.getElementById('artist-list');
