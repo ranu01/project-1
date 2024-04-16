@@ -20,6 +20,11 @@ Run a development server using a tool like npm start or a similar command depend
 
 Spofyis a music web application that allows users to discover new music, and listen to their favorite songs. The app has a sleek and intuitive interface that makes it easy for users to navigate and enjoy their music.
 
+## Setup/Installation Requirements
+
+- For a live demo, visit: https://642f22f2af5d7f005f1a8da8--candid-froyo-9a23bc.netlify.app/
+- Please be patient, the songs might take a few seconds to play.
+
 ## Technologies Used
 
 Tunez is built using the following technologies:
@@ -27,14 +32,3 @@ Tunez is built using the following technologies:
 HTML5 AND CSS
 js
 A db.json file
-
-##
-
-Contributions to Spofy are welcome! To contribute, follow these steps:
-
-Fork the repository.
-Create a new branch for your feature: git checkout -b my-new-feature.
-Make changes and commit them: git commit -am 'Add new feature'.
-Push to the branch: git push origin my-new-feature.
-Submit a pull request.
-Explore the website's features through the user interface. (Provide a brief overview of the main functionalities here, like searching for music, playing songs, creating playlists, etc.)
